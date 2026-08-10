@@ -49,3 +49,6 @@ https://github.com/user-attachments/assets/408375c1-c7d0-424c-8a6d-e748696448dc
 > <img width="1917" height="906" alt="Screenshot 2026-08-10 050133" src="https://github.com/user-attachments/assets/b63acde4-33dc-4e7c-baaa-eef39ed3cc15" />
 > <img width="1917" height="905" alt="Screenshot 2026-08-10 050147" src="https://github.com/user-attachments/assets/cc82b1a8-64f3-47f9-a2ae-57c3384b22c2" />
 
+### 5. Assembly Process Video
+* I recorded a short video demonstrating the complete assembly and mating process from start to finish. You can watch the full video here:
+* https://drive.google.com/file/d/1a5vy35by2H4OPBL_2fnIBOQUJeH-w_F4/view?usp=sharing
